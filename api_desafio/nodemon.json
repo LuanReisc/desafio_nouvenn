@@ -5,7 +5,7 @@
         "MYSQL_PASSWORD": "399717475",
         "MYSQL_DATABASE": "desafio",
         "MYSQL_HOST":"localhost",
-        "MYSQL_PORT":3306,
+        "MYSQL_PORT":3340,
         "JWT_KEY":"segredo"
     }
 }
