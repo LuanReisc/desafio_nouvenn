@@ -1,5 +1,5 @@
 <template>
-    <div id="users">
+    <div id="books">
         <h1>Livros cadastrados</h1>
         <br>
         <br>
@@ -49,7 +49,7 @@ button
     height:50px;
     cursor:pointer;
 }
-#users
+#books
 {
     background-color:burlywood;
     width:50%;
