@@ -1,5 +1,5 @@
 <template>
-    <div id="cadastro">
+    <div id="devolver">
         <br>
         <h1>Devolver livro</h1>
         <br>
@@ -52,7 +52,7 @@ button
     height:50px;
     cursor:pointer;
 }
-#cadastro
+#devolver
 {
     background-color:burlywood;
     width:50%;
